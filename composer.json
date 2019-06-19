@@ -6,6 +6,7 @@
     "extra": {
         "composer-scaffold": {
             "file-mapping": {
+                "[web-root]/vendor/.htaccess": "assets/vendor-htaccess",
                 "[web-root]/.csslintrc": "assets/csslintrc",
                 "[web-root]/.editorconfig": "assets/editorconfig",
                 "[web-root]/.eslintignore": "assets/eslintignore",
